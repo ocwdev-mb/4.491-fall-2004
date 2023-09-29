@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Engineering"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering"
+    ]
+  ],
+  "legacy_uid": "f361b2d0-8a36-f539-85fd-23b6d02ef40d",
+  "instructors": {
+    "content": [
+      "adc586d4-a306-ce04-7a4f-c2ebe1bf1197",
+      "655d9584-f056-5cd8-7b1b-f8b70b708d53",
+      "555e8048-d5d2-0673-df46-76e601b3f516",
+      "177894e4-49d5-12d8-9e00-2fed3e82873c",
+      "581eb5a2-93f0-101a-34bc-b62e8da4ac53",
+      "dc00e54c-d7df-238a-dda0-15c20920baee"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e5f6a466-617a-072a-19b3-a51e49ab513c",
+    "website": "4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004"
+  },
+  "course_title": "Form-Finding and Structural Optimization: Gaudi Workshop",
+  "course_description": "Inspired by the work of the architect Antoni Gaudi, this research workshop will explore three-dimensional problems in the static equilibrium of structural systems. Through an interdisciplinary collaboration between computer science and architecture, we will develop design tools for determining the form of three-dimensional structural systems under a variety of loads. The goal of the workshop is to develop real-time design and analysis tools which will be useful to architects and engineers in the form-finding of efficient three-dimensional structural systems.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.491",
+  "course_image_thumbnail": {
+    "content": "6f21c98f-09e7-4cf0-9593-0d5dfd03fa90",
+    "website": "4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Design Assignments"
+  ],
+  "site_uid": "aef3a8ff-e9b0-4026-821c-77ce7461ec63",
+  "site_short_id": "4.491-fall-2004",
+  "title": "Course Metadata"
+}
